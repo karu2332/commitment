@@ -3,4 +3,4 @@
 
  This is the link to the "index.html" page:
 
- [Commitment(https://creative.colorado.edu/~karu2332/dev/commitment/)]
+ [Commitment](https://creative.colorado.edu/~karu2332/dev/commitment/)
