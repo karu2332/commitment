@@ -42,6 +42,10 @@ h1 {
 
 }
 
+#git_2 .container ol {
+  text-align: left;
+}
+
 #git_3 {
   background-color: yellow;
 }
