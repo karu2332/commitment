@@ -10,6 +10,7 @@ body {
     display: flex;
     align-items: center;
     border: 2px solid green;
+    margin-left: 4em;
 }
 
 #git_1 {
