@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Indie+Flower&display=swap');
+
 body {
   background-color: lightblue;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -59,7 +61,7 @@ h1 {
   justify-content: center;
   display: flex;
   align-items: center;
-  border: 2px solid blue;
+  border: 4px dotted blue;
   margin-left: 90px;
   margin-top: 30px;
   border-radius: 50px;
