@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dongle&family=Holtwood+One+SC&family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
@@ -27,7 +27,7 @@ h1 {
     align-items: center;
     border: 2px solid green;
     margin-left: 30px;
-    font-family: 'Dongle', sans-serif;
+
 }
 
 #git_1 {
