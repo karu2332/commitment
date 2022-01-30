@@ -100,4 +100,13 @@ h1 {
 
 #git_6 {
     background-color: purple;
+    width: 40%;
+    height: 10em;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-top: 30px;
 }
