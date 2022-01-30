@@ -31,6 +31,14 @@ h1 {
 
 #git_2 {
     background-color: orange;
+    width: 30%;
+    height: 10em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid red;
+    margin-left: 70px;
+    margin-top: 30px;
 
 }
 
