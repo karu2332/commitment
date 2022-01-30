@@ -19,7 +19,13 @@ h1 {
 
 #git_1 {
     background-color: red;
-
+    width: 30%;
+    height: 10em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    margin-left: 8em;
 }
 
 #git_2 {
