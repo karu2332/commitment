@@ -70,6 +70,7 @@ h1 {
   width: 50%;
   height: 10em;
   text-align: center;
+  justify-content: center;
   display: flex;
   align-items: center;
   border: 2px solid lightgreen;
