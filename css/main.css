@@ -114,8 +114,8 @@ h1 {
     justify-content: center;
     display: flex;
     align-items: center;
-    border: 2px solid black;
-    margin-left: 150px;
+    border: 4px dashed black;
+    margin-left: 180px;
     margin-top: 30px;
 }
 
